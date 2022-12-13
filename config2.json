@@ -29,7 +29,7 @@
 		"levels": {
 			"0": {
 				"handshake": 3,
-				"connIdle": 5,
+				"connIdle": 60,
 				"uplinkOnly": 0,
 				"downlinkOnly": 0,
 				"bufferSize": 0
